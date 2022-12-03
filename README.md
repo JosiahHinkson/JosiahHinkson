@@ -6,8 +6,10 @@
 - Fun fact: I love to edit and play video games
 - Other fun fact: That's Drawne Wade
 
+### Spotify Playing
+[![Spotify](https://josiahhinkson.vercel.app/api/spotify)](https://open.spotify.com/user/なみ)
+
 ---
-<!--START_SECTION:activity-->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
