@@ -4,6 +4,7 @@
 
 - 2023 Goals: Learn more about video editing
 - Fun fact: I love to edit and play video games
+- Other fun fact: That's Drawne Wade
 
 ---
 <details>
