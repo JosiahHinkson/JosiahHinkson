@@ -7,6 +7,8 @@
 - Other fun fact: That's Drawne Wade
 
 ---
+<!--START_SECTION:activity-->
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
